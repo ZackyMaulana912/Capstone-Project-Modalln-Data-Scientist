@@ -19,4 +19,4 @@ Seluruh variabel dari keempat parameter tersebut diolah, dibersihkan, dan diekst
 **Dampak Bisnis:**
 Implementasi analitik ini memungkinkan perusahaan *fintech* atau lembaga penyalur pinjaman untuk mengotomatisasi proses *underwriting*, menekan angka gagal bayar (*Non-Performing Loan* / NPL) secara *data-driven*, sekaligus memperluas inklusi keuangan bagi UMKM yang secara fundamental terbukti sehat (*creditworthy*).
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://capstone-project-modalln-data-scientist-ccxbzubf5armtd26gviehr.streamlit.app) 
+(https://static.streamlit.io/badge_svg.svg)](https://capstone-project-modalln-data-scientist-ccxbzubf5armtd26gviehr.streamlit.app) 
